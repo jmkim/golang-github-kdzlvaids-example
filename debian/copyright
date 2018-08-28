@@ -1,8 +1,6 @@
 Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
 Upstream-Name: example
 Source: https://github.com/kdzlvaids/example
-Files-Excluded:
-  Godeps/_workspace
 
 Files: *
 Copyright: 2018 Jongmin Kim
